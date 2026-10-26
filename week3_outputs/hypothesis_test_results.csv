@@ -1,0 +1,4 @@
+Test,Statistic,P_value,Alpha,Decision,Cohens_d
+Pearson correlation: TV vs Sales,0.7822244248616067,1.4673897001946247e-42,0.05,Reject H0,
+Welch t-test: high vs low TV spending,12.683513739268074,7.328671543691218e-27,0.05,Reject H0,1.79371971486184
+One-way ANOVA: sales by TV group,110.58453071761716,6.335214422169939e-33,0.05,Reject H0,
